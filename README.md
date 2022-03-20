@@ -23,7 +23,7 @@ The code in this repo is based off of [link](https://github.com/dianchen96/Learn
 Clone this repo with all its submodules
 
 ```bash
-git clone https://github.com/bradyz/2020_CARLA_challenge.git --recursive
+git clone https://github.com/shanicky4ever/2020_CARLA_challenge.git --recursive
 ```
 
 All python packages used are specified in `carla_project/requirements.txt`.
