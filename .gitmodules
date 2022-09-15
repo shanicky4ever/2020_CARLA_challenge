@@ -6,4 +6,4 @@
 	url = https://github.com/bradyz/carla_project.git
 [submodule "leaderboard"]
 	path = leaderboard
-	url = https://github.com/shanicky4ever/leaderboard.git
+	url = git@github.com:shanicky4ever/leaderboard.git
