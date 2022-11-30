@@ -1,1 +1,7 @@
 tmp_record/
+
+CARLA_challenge_autopilot/
+checkpoints/
+*.gz
+
+__pycache__/
